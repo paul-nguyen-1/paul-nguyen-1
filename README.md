@@ -15,7 +15,7 @@ I'm a Computer Science student at Oregon State University with a strong interest
 - [PromptMail](https://github.com/): Smart email reply assistant with customizable tones and Chrome/web app integration (In Development)
 - [Milo.AI](https://github.com/paul-nguyen-1/milo.ai): Custom notes sharing application w/ Gen AI (In Development)
 - [BeavsHub](https://github.com/paul-nguyen-1/BeavsHubV2): OSU Course and Resume Reviews (2000+ cumulative reviews)
-- [personal website](https://paulnguyen.vercel.app/)
+- [Personal website](https://paulnguyen.vercel.app/)
 
 
 |[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=paul-nguyen-1&card_width=400&background=45%2CFDE6A4%2CFFFFFF&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) |[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,react,django,flask,js,nextjs,ts,html,css,bootstrap,tailwind,figma,aws,fastapi,redux,ai,prisma,tailwind,github,vscode&perline=11&theme=light)](https://github.com/paul-nguyen-1 "skills") |
