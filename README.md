@@ -18,7 +18,7 @@ I'm a Computer Science student at Oregon State University with a strong interest
 - [Personal website](https://paulnguyen.vercel.app/)
 
 
-|[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=paul-nguyen-1&card_width=400&background=45%2CFDE6A4%2CFFFFFF&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) |[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,react,django,flask,js,nextjs,ts,html,css,bootstrap,tailwind,figma,aws,fastapi,redux,ai,prisma,tailwind,github,vscode&perline=11&theme=light)](https://github.com/paul-nguyen-1 "skills") |
+|[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=paul-nguyen-1&card_width=400&background=45%2CFDE6A4%2CFFFFFF&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) |[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,react,django,flask,js,nextjs,ts,html,css,tailwind,figma,aws,fastapi,redux,ai,prisma,fastapi,git,github,vscode&perline=11&theme=light)](https://github.com/paul-nguyen-1 "skills") |
 |---|---|
 
 ---
