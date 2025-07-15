@@ -12,7 +12,7 @@ I'm a Computer Science student at Oregon State University with a strong interest
 - SWE @ [Summersalt](https://www.summersalt.com/) [Summer/Fall 2023, Spring 2024]
 
 🔭 What i've worked or am currently working on:
-- [PromptMail](https://github.com/): GenAI email reply assistant with customizable tones and Chrome/web app integration (In Development)
+- [PromptMail](https://github.com/kavasg/Promptmail): GenAI email reply assistant with customizable tones and Chrome/web app integration (In Development)
 - [Milo.AI](https://github.com/paul-nguyen-1/milo.ai): Custom notes sharing application w/ Gen AI (In Development)
 - [BeavsHub](https://github.com/paul-nguyen-1/BeavsHubV2): OSU Course and Resume Reviews (2000+ cumulative reviews)
 - [Personal website](https://paulnguyen.vercel.app/)
