@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-I'm a graduate student for Computer Science at University of Illinois Urbana-Champaign with a strong interest in web development, especially full stack with a focus on the front end. I love building clean, responsive interfaces and turning ideas into real, usable products. I'm always curious about new tools and frameworks and enjoy learning by doing. Creating things that are both functional and visually thoughtful is what drives me.
+I'm a graduate student for Computer Science at University of Illinois Urbana-Champaign with a strong interest in web development, especially full stack with a focus on the front end. I love turning ideas into real, usable products. I'm always curious about new tools and frameworks and enjoy learning by doing. Experimenting and creating meaningful things from the ground up is what fuels my passion.
 
 👨🏻‍💻 What i've been up to
 - SWE @ [NASA](https://www.nasa.gov/) [Spring 2025]
