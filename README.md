@@ -18,8 +18,12 @@ I'm a graduate student for Computer Science at University of Illinois Urbana-Cha
 - [Personal website](https://paulnguyen.vercel.app/)
 
 
-|[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=paul-nguyen-1&card_width=400&background=45%2CFDE6A4%2CFFFFFF&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) |[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,react,django,flask,js,nextjs,ts,html,css,tailwind,figma,aws,fastapi,redux,ai,prisma,fastapi,git,github,vscode&perline=11&theme=light)](https://github.com/paul-nguyen-1 "skills") |
-|---|---|
+<div align="center">
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=paul-nguyen-1&card_width=400&background=45%2CFDE6A4%2CFFFFFF&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-nguyen-1&theme=rose_pine&hide_border=true&layout=compact&langs_count=10&card_width=333" alt="Top Languages" />
+
+</div>
 
 ---
 ### Socials
