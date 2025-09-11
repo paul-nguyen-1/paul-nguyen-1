@@ -15,7 +15,7 @@ I'm a graduate student for Computer Science at University of Illinois Urbana-Cha
 - [PromptMail](https://github.com/kavasg/Promptmail): GenAI email reply assistant with customizable tones and Chrome/web app integration (In Development)
 - [Milo.AI](https://github.com/paul-nguyen-1/milo.ai): Custom notes sharing application w/ Gen AI (In Development)
 - [BeavsHub](https://github.com/paul-nguyen-1/BeavsHubV2): OSU Course and Resume Reviews (2000+ cumulative reviews)
-- [Personal website](https://paulnguyen.vercel.app/)
+- [Personal website](https://www.paul-nguyen.dev)
 
 
 <div align="center">
