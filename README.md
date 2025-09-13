@@ -12,8 +12,7 @@ I'm a graduate student for Computer Science at University of Illinois Urbana-Cha
 - SWE @ [Summersalt](https://www.summersalt.com/) [Summer/Fall 2023, Spring 2024]
 
 🔭 What i've worked or am currently working on:
-- [PromptMail](https://github.com/kavasg/Promptmail): GenAI email reply assistant with customizable tones and Chrome/web app integration (In Development)
-- [Milo.AI](https://github.com/paul-nguyen-1/milo.ai): Custom notes sharing application w/ Gen AI (In Development)
+- [PromptMail](https://github.com/kavasg/Promptmail): GenAI email reply assistant with customizable tones and Chrome/web app integration
 - [BeavsHub](https://github.com/paul-nguyen-1/BeavsHubV2): OSU Course and Resume Reviews (2000+ cumulative reviews)
 - [Personal website](https://www.paul-nguyen.dev)
 
