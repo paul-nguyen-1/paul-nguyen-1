@@ -16,13 +16,7 @@ I'm a graduate student for Computer Science at University of Illinois Urbana-Cha
 - [BeavsHub](https://github.com/paul-nguyen-1/BeavsHubV2): OSU Course and Resume Reviews (2000+ cumulative reviews)
 - [PromptMail](https://github.com/kavasg/Promptmail): GenAI email reply assistant with customizable tones and Chrome/web app integration
 - [Personal website](https://www.paul-nguyen.dev)
-
-
 <div align="center">
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=paul-nguyen-1&card_width=400&background=45%2CFDE6A4%2CFFFFFF&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-nguyen-1&theme=rose_pine&hide_border=true&layout=compact&langs_count=10&card_width=333" alt="Top Languages" />
-
 </div>
 
 ---
