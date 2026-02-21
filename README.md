@@ -22,7 +22,7 @@ I'm a graduate student for Computer Science at University of Illinois Urbana-Cha
 ---
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/paul-nguyen-1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/paul-nguyen--/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/paul-nguyen-1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/paul-nguyen-swe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <!--
 **paul-nguyen-1/paul-nguyen-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
