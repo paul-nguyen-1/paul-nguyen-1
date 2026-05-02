@@ -7,6 +7,7 @@
 I'm a graduate student for Computer Science at University of Illinois Urbana-Champaign with a strong interest in web development, data, and machine learning. I love turning ideas into real, usable products. I'm always curious about new tools and frameworks and enjoy learning by doing. Experimenting and creating meaningful things from the ground up is what fuels my passion.
 
 👨🏻‍💻 What i've been up to
+- SWE @ [IBM](https://www.ibm.com/)
 - SWE @ [NASA](https://www.nasa.gov/) [Spring 2025]
 - SWE @ [Lucid Motors](https://lucidmotors.com/) [Summer/Fall 2024]
 - SWE @ [Summersalt](https://www.summersalt.com/) [Summer/Fall 2023, Spring 2024]
