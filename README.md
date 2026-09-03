@@ -22,6 +22,7 @@ I'm a graduate student for Computer Science at University of Illinois Urbana-Cha
 ### Socials
 
 <a href="https://www.linkedin.com/in/paul-nguyen-swe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+[Personal Page](https://www.paul-nguyen.dev/)
 
 <!--
 **paul-nguyen-1/paul-nguyen-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
